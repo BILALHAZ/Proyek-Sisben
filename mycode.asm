@@ -69,6 +69,16 @@ dw '  ke bumi adalah...   ',0ah,0dh
 dw ' ',0ah,0dh
 dw 'A. Karbondioksida      C. Hidrosfer ',0ah,0dh 
 dw 'B. Ozon                D. Mesosfer ',0ah,0dh
+dw '$',0ah,0dh 
+
+dw ' ',0ah,0dh
+dw ' ',0ah,0dh
+dw ' ',0ah,0dh
+dw '4.Lapisan atmosfer yang berfungsi untuk mencegah radiasi sinar matahari masuk  ',0ah,0dh
+dw '  ke bumi adalah...   ',0ah,0dh
+dw ' ',0ah,0dh
+dw 'A. Karbondioksida      C. Hidrosfer ',0ah,0dh 
+dw 'B. Ozon                D. Mesosfer ',0ah,0dh
 dw '$',0ah,0dh  
                 
 msg1 db 13, 10, 'Benar!', '$'
